@@ -15,7 +15,13 @@ a{
   padding-right: 15px;
   padding-left: 15px;
 }
-
+.facebook {
+background-image: url("https://scontent.xx.fbcdn.net/v/t1.0-9/13087617_1751529951796177_8289952447034008565_n.jpg?oh=9695601fcb9db8ca385ce61580062518&oe=58C41D8A");
+}
+.color{
+color: aqua;
+background-color: black; 
+}
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
